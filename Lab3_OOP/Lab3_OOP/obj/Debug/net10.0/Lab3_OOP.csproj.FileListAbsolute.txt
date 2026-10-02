@@ -1,0 +1,15 @@
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\obj\Debug\net10.0\Lab3_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\obj\Debug\net10.0\Lab3_OOP.AssemblyInfoInputs.cache
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\obj\Debug\net10.0\Lab3_OOP.AssemblyInfo.cs
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\obj\Debug\net10.0\Lab3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\bin\Debug\net10.0\Lab3_OOP.exe
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\bin\Debug\net10.0\Lab3_OOP.deps.json
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\bin\Debug\net10.0\Lab3_OOP.runtimeconfig.json
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\bin\Debug\net10.0\Lab3_OOP.dll
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\bin\Debug\net10.0\Lab3_OOP.pdb
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\obj\Debug\net10.0\Lab3_OOP.dll
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\obj\Debug\net10.0\refint\Lab3_OOP.dll
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\obj\Debug\net10.0\Lab3_OOP.pdb
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\obj\Debug\net10.0\Lab3_OOP.genruntimeconfig.cache
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\obj\Debug\net10.0\ref\Lab3_OOP.dll
+C:\Users\Игорь\source\repos\Lab3_OOP\Lab3_OOP\obj\Debug\net10.0\Lab3_OOP.csproj.Up2Date
