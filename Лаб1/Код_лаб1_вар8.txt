@@ -1,0 +1,181 @@
+using System;
+
+namespace Lab1_8var_OOP
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.Clear();
+            while (true)
+            {
+                Console.WriteLine("Лабораторная работа №1.");
+                Console.WriteLine("1 - Вычисление выражений");
+                Console.WriteLine("2 - Проверка принадлежности точки");
+                Console.WriteLine("3 - Вычисление выражений с float и double");
+                Console.WriteLine("0 - Закрыть программу");
+                Console.Write("Выберите номер задачи: ");
+                string choice = Console.ReadLine();
+                switch(choice)
+                {
+                    case "1":
+                        RunTask1();
+                        break;
+                    case "2":
+                        RunTask2();
+                        break;
+                    case "3":
+                        RunTask3();
+                        break;
+                    case "0":
+                        return;
+                    default:
+                        Console.WriteLine("--------------------------------------------");
+                        Console.WriteLine("Неверный выбор. Выберите номер из предложенных вариантов." +
+                            " Например, если Вы хотите запустить 1-ую задачу," +
+                            " напишите \"1\" без посторонних знаков.");
+                        Console.WriteLine("--------------------------------------------");
+                        break;
+                }
+            }
+        }
+
+        static void CheckInt(string input, out int result)
+        {
+            bool isCorrect;
+            do
+            {
+                Console.Write($"Введите {input}: ");
+                string buf = Console.ReadLine();
+                isCorrect = int.TryParse(buf, out result);
+                if (!isCorrect)
+                    Console.WriteLine("Некорректный ввод.");
+                else if (buf == "0")
+                {
+                    Console.WriteLine($"Ошибка. {input} не может равняться 0.");
+                    isCorrect = false;
+                }
+            } while (!isCorrect);
+        }
+
+        static void CheckDouble(string input, out double result)
+        {
+            bool isCorrect;
+            do
+            {
+                Console.Write($"Введите {input}: ");
+                string buf = Console.ReadLine();
+                isCorrect = double.TryParse(buf, out result);
+                if (!isCorrect)
+                    Console.WriteLine("Некорректный ввод");
+            } while (!isCorrect);
+        }
+        
+        static void RunTask1()
+        {
+            Console.Clear();
+            Console.WriteLine("Задача №1.");
+            int n, m;
+            CheckInt("n", out n);
+            CheckInt("m", out m);
+            int cloneN = n;
+            int cloneM = m;
+            int r1 = cloneN / cloneM++;
+            Console.WriteLine($"n = {cloneN}, m = {cloneM}, n/m++ = {r1}");
+            cloneN = n;
+            cloneM = m;
+            bool r2 = cloneM++ < --cloneN;
+            Console.WriteLine($"n = {cloneN}, m = {cloneM}, m++ < --n = {r2}");
+            cloneN = n;
+            cloneM = m;
+            int temp = cloneM / cloneN;
+            bool r3 = (temp)++ < cloneN / cloneM;
+            Console.WriteLine($"n = {cloneN}, m = {cloneM}, (m/n)++ < n/m = {r3}");
+            double x;
+            CheckDouble("x", out x);
+            double r4 = Math.Sqrt(Math.Abs(Math.Pow(x, 3) - 1)) - 7 * Math.Cos(Math.Pow(Math.Pow(x, 4) + x, 1 / 3));
+            Console.WriteLine($"f(x) = {r4}");
+            while (true)
+            {
+                Console.WriteLine("-------------------------");
+                Console.WriteLine("1 - Перезапустить задачу");
+                Console.WriteLine("0 - Вернуться в меню");
+                Console.Write("Выберите: ");
+                string choice = Console.ReadLine();
+                if (choice == "1")
+                    RunTask1();
+                else if (choice == "0")
+                {
+                    Console.Clear();
+                    return;
+                }
+                else
+                    Console.WriteLine("Ввод некорректный, попробуйте заново");
+            }
+        }
+
+        static void RunTask2()
+        {
+            Console.Clear();
+            Console.WriteLine("Задача №2.");
+            double x, y;
+            CheckDouble("x", out x);
+            CheckDouble("y", out y);
+            bool isInSemicircle = (Math.Pow(x, 2) + Math.Pow(y, 2) <= 4) && (x <= 0);
+            bool isInTriangle = (y <= 2 - x) && (y >= x - 2) && (x >= 0);
+            bool resultCondition = isInSemicircle || isInTriangle;
+            Console.WriteLine($"Точка ({x},{y}) принадлежит заштрихованной области - {resultCondition}.");
+            while (true)
+            {
+                Console.WriteLine("-------------------------");
+                Console.WriteLine("1 - Перезапустить задачу");
+                Console.WriteLine("0 - Вернуться в меню");
+                Console.Write("Выберите: ");
+                string choice = Console.ReadLine();
+                if (choice == "1")
+                    RunTask2();
+                else if (choice == "0")
+                {
+                    Console.Clear();
+                    return;
+                }
+                else
+                    Console.WriteLine("Ввод некорректный, попробуйте заново");
+            }
+        }
+        static void RunTask3()
+        {
+            Console.Clear();
+            Console.WriteLine("Задача №3.");
+            double a = 1000;
+            double b = 0.0001;
+            double numeratorD = Math.Pow(a + b, 3) - Math.Pow(a,3);
+            double denominatorD = Math.Pow(b, 3) + 3 * a * Math.Pow(b, 2) + 3 * b * Math.Pow(a, 2);
+            double resultD = numeratorD / denominatorD;
+            Console.WriteLine($"Значение выражения (тип double) = {resultD}");
+            float aFloat = (float)a;
+            float bFloat = (float)b;
+            float numeratorF = (float)Math.Pow(aFloat + bFloat, 3) - (float)Math.Pow(aFloat, 3);
+            float denominatorF = (float)Math.Pow(bFloat, 3) + 3 * aFloat * (float)Math.Pow(bFloat, 2) + 3 * bFloat * (float)Math.Pow(aFloat, 2);
+            float resultF = numeratorF / denominatorF;
+            Console.WriteLine($"Значение выражения (тип float) = {resultF}");
+            while (true)
+            {
+                Console.WriteLine("-------------------------");
+                Console.WriteLine("1 - Перезапустить задачу");
+                Console.WriteLine("0 - Вернуться в меню");
+                Console.Write("Выберите: ");
+                string choice = Console.ReadLine();
+                if (choice == "1")
+                    RunTask3();
+                else if (choice == "0")
+                {
+                    Console.Clear();
+                    return;
+                }
+                else
+                    Console.WriteLine("Ввод некорректный, попробуйте заново");
+            }
+        }
+    }
+}
