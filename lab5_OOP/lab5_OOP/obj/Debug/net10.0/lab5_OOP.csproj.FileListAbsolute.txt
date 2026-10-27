@@ -1,0 +1,16 @@
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\bin\Debug\net10.0\lab5_OOP.exe
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\bin\Debug\net10.0\lab5_OOP.deps.json
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\bin\Debug\net10.0\lab5_OOP.runtimeconfig.json
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\bin\Debug\net10.0\lab5_OOP.dll
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\bin\Debug\net10.0\lab5_OOP.pdb
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\obj\Debug\net10.0\lab5_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\obj\Debug\net10.0\lab5_OOP.AssemblyInfoInputs.cache
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\obj\Debug\net10.0\lab5_OOP.AssemblyInfo.cs
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\obj\Debug\net10.0\lab5_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\obj\Debug\net10.0\lab5_OOP.dll
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\obj\Debug\net10.0\refint\lab5_OOP.dll
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\obj\Debug\net10.0\lab5_OOP.pdb
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\obj\Debug\net10.0\lab5_OOP.genruntimeconfig.cache
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\obj\Debug\net10.0\ref\lab5_OOP.dll
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\obj\Debug\net10.0\lab5_OOP.csproj.Up2Date
+C:\Users\Игорь\source\repos\lab5_OOP\lab5_OOP\bin\Debug\net10.0\lab5_OOP.runtimeconfig.dev.json
