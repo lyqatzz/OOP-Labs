@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab9_OOP.Money">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAABAGAIAAAAgAAAAIQAABIEAAEAAA=</HashCode>
+      <FileName>Money.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_OOP.MoneyArray">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAADAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MoneyArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab9_OOP.Program">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

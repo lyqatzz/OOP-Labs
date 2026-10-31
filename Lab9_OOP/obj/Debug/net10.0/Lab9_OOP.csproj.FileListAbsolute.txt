@@ -1,0 +1,16 @@
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\bin\Debug\net10.0\Lab9_OOP.exe
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\bin\Debug\net10.0\Lab9_OOP.deps.json
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\bin\Debug\net10.0\Lab9_OOP.runtimeconfig.json
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\bin\Debug\net10.0\Lab9_OOP.runtimeconfig.dev.json
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\bin\Debug\net10.0\Lab9_OOP.dll
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\bin\Debug\net10.0\Lab9_OOP.pdb
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\net10.0\Lab9_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\net10.0\Lab9_OOP.AssemblyInfoInputs.cache
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\net10.0\Lab9_OOP.AssemblyInfo.cs
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\net10.0\Lab9_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\net10.0\Lab9_OOP.dll
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\net10.0\refint\Lab9_OOP.dll
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\net10.0\Lab9_OOP.pdb
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\net10.0\Lab9_OOP.genruntimeconfig.cache
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\net10.0\ref\Lab9_OOP.dll
+C:\Users\Игорь\source\repos\Lab9_OOP\Lab9_OOP\obj\Debug\net10.0\Lab9_OOP.csproj.Up2Date
