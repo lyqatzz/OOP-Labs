@@ -1,0 +1,16 @@
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\obj\Debug\net10.0\Lab11_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\obj\Debug\net10.0\Lab11_OOP.AssemblyInfoInputs.cache
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\obj\Debug\net10.0\Lab11_OOP.AssemblyInfo.cs
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\obj\Debug\net10.0\Lab11_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\bin\Debug\net10.0\Lab11_OOP.exe
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\bin\Debug\net10.0\Lab11_OOP.deps.json
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\bin\Debug\net10.0\Lab11_OOP.runtimeconfig.json
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\bin\Debug\net10.0\Lab11_OOP.runtimeconfig.dev.json
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\bin\Debug\net10.0\Lab11_OOP.dll
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\bin\Debug\net10.0\Lab11_OOP.pdb
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\obj\Debug\net10.0\Lab11_OOP.dll
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\obj\Debug\net10.0\refint\Lab11_OOP.dll
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\obj\Debug\net10.0\Lab11_OOP.pdb
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\obj\Debug\net10.0\Lab11_OOP.genruntimeconfig.cache
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\obj\Debug\net10.0\ref\Lab11_OOP.dll
+C:\Users\Игорь\source\repos\Lab11_OOP\Lab11_OOP\obj\Debug\net10.0\Lab11_OOP.csproj.Up2Date
